@@ -1,6 +1,5 @@
 package practice;
 import java.io.*;
-import java.util.Hashtable;
 
 public class archu {
 
